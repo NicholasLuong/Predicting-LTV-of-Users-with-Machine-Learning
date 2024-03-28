@@ -1,1 +1,3 @@
 # Predicting-LTV-of-Users-with-Machine-Learning
+
+This is a term project for the Applied Machine Learning Course at UC Berkeley where my team partnered with a training facility to understand their new app in beta. While I cannot share the code due to a non-disclosure agreement (NDA), I hope to share our process with the presentation we shared with our class. This is a time-series project that utilized an LSTM architecture to try to predict the daily lifetime value of a customer. While addressing data quality issues posed the biggest challenge, our team adeptly managed them, ensuring our model was refined effectively for improved performance during the analysis phase.
